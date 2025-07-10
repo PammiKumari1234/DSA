@@ -7,6 +7,7 @@ This repository contains my daily practice of Data Structures and Algorithms usi
 - Arrays
 - Strings
 - Linked Lists
+- Patterns
 
 ## 🛠️ How to Run
 
