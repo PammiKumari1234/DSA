@@ -15,3 +15,7 @@ Clone the repo and run any file using Node.js:
 
 ```bash
 node arrays/twoSum.js
+
+
+//TC- 
+//SC-
