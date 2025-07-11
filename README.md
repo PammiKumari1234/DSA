@@ -8,6 +8,9 @@ This repository contains my daily practice of Data Structures and Algorithms usi
 - Strings
 - Linked Lists
 - Patterns
+- Numbers
+- Recursion
+- Searching and Sorting
 
 ## 🛠️ How to Run
 
